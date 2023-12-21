@@ -2,7 +2,7 @@ from tkinter import *
 from functools import partial
 import constants
 root=Tk()
-root.title("Caro by SAM")
+root.title("Cờ Caro")
 Buts={}
 gioitren=range(1,21)
 gioiduoi=range(381,401)
